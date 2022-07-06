@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704892571280",
+    "project_id": "freshconnect-68b63",
+    "storage_bucket": "freshconnect-68b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704892571280:android:1462bbf2c1898f56e9d215",
+        "android_client_info": {
+          "package_name": "app.freshconnect.wholeseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704892571280-lck334j9jr3pmgjh1jdu3ri5ki82rvc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGiNBa1tj3TIcwBLckFh0IdX3Ix-YE3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704892571280-lck334j9jr3pmgjh1jdu3ri5ki82rvc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
